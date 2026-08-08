@@ -1,0 +1,7 @@
+{
+  "name": "reconhecimento-local-web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
