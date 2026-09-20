@@ -1,21 +1,40 @@
-MIT License
+# Reconhecimento Local Web — Proprietary License
 
-Copyright (c) 2026 Janine Cunha
+Copyright (c) 2026 Janine Cunha. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Proprietary Software
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Reconhecimento Local Web is proprietary software owned by Janine Cunha.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Unless expressly authorized in writing by the copyright holder, no permission is granted to:
+
+* copy or reproduce the software;
+* modify, adapt, or create derivative works;
+* redistribute or republish the software;
+* sublicense or transfer the software;
+* sell, resell, or commercially exploit the software;
+* make the source code or substantial portions of the source code available to third parties.
+
+The source code, application structure, interface, visual identity, original content, documentation, and other original materials associated with the Reconhecimento Local Web project are protected by applicable copyright laws.
+
+## Commercial Licensing
+
+Commercial use, customization, licensing, redistribution, or transfer of rights may be authorized separately by the copyright holder through a written agreement.
+
+A commercial license does not automatically transfer ownership of the original source code or intellectual property unless such transfer is expressly stated in a separate written agreement.
+
+## Third-Party Components
+
+This project may contain third-party libraries, frameworks, dependencies, or other components that are distributed under their respective licenses.
+
+Those third-party licenses remain applicable to their respective components and are not replaced by this license.
+
+## No Warranty
+
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+To the maximum extent permitted by applicable law, the copyright holder shall not be liable for any claim, damages, or other liability arising from the use of, inability to use, modification, distribution, or other dealings with the software.
+
+---
+
+**Copyright © 2026 Janine Cunha. All Rights Reserved.**
